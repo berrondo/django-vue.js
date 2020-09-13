@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/auth0-blog/django-vue.js)
+
 # Building Modern Applications with Django and Vue.js
 
 Throughout this article, you'll use Django, Django REST framework, and Vue.js to develop an application with a REST backend API and a Vue.js frontend. You will make the Vue.js frontend application consume the backend API with the help of Axios (an HTTP client library). Then, you will handle user authentication with Auth0.
